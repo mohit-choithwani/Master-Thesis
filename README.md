@@ -22,7 +22,7 @@ The key contributions of this research include:
 
 The methodology section outlines the experimental setup, including the selection of SOTA methods, datasets, and evaluation metrics. 
 
-![Methodology](images/multi-view-reconstruction.png)
+![Methodology](images/3D_surface_reconstruction.png)
 
 ### 1. Selection of 3D Reconstruction Methods
 
